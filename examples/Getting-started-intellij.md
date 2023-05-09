@@ -4,3 +4,6 @@
 
 IntelliJ IDEA, or IntelliJ, is a integrated development environment used primarily for Java/Kotlin application development. It provides developers with functionalities such as creating and managing Java projects, code suggestion and completions, code refactoring, source control via Git, and many others.
 
+## Creating a new Java project
+
+### Prerequisites
