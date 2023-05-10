@@ -10,7 +10,7 @@ The following tutorial guides you on how to create a new Java project from withi
 
 ### Prerequisites
 
-The latest Java development kit should be installed on your local machine.
+1. The latest Java development kit should be installed on your local machine.
 
 ### Steps
 
@@ -33,3 +33,12 @@ The latest Java development kit should be installed on your local machine.
 IntelliJ will create the project with a sample helloworld application.
 
 ![](./new-project-created.png)
+
+## Install Plugins
+
+Plugins are add-ons that can improve your productivity and development experience when using IntelliJ to develop your applications.
+
+### Prerequisities
+
+1. IntelliJ is installed and configured to run. 
+2. You are not in the middle of writing codes.
