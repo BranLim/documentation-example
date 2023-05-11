@@ -34,7 +34,7 @@ IntelliJ will create the project with a sample helloworld application.
 
 ![](./new-project-created.png)
 
-## Install Plugins
+## Install Plugins for IntelliJ on the Mac
 
 Plugins are add-ons that can improve your productivity and development experience when using IntelliJ to develop your applications.
 
@@ -42,3 +42,23 @@ Plugins are add-ons that can improve your productivity and development experienc
 
 1. IntelliJ is installed and configured to run. 
 2. You are not in the middle of writing codes.
+
+### Steps
+
+1. Click on **IntelliJ IDEA** on the menubar
+2. Click on **Preferences...** to open the **Preferences** window
+
+![](./open-preferences-dialog.png)
+
+3. Click on **Plugins** on the left side.
+
+![](./plugins-preferences-dialog.png)
+
+4. Select Marketplace (1) if it is not. Then, in the textfield (2), enter the name of the plugin you want. The name can be partial or in full. 
+
+![](./preferences-dialog-marketplace.png)
+
+5. After the plugin has been found, install it by clicking on the **Install** button to start the installation process. IntelliJ may prompt you to restart.
+6. Restart IntelliJ to begin using the plugin on the next startup.
+
+
